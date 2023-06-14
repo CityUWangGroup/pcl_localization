@@ -1,3 +1,0 @@
-source;share/pcl_localization_ros2/environment/ament_prefix_path.sh
-source;share/pcl_localization_ros2/environment/library_path.sh
-source;share/pcl_localization_ros2/environment/path.sh
